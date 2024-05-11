@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 90vh;
     background-color: #f4f6f4;
+    text-align: center;
 }
 
 #noButton {
@@ -11,14 +12,16 @@ body {
     margin-left: 150px;
     transition: 0.5s;
     width: 120px;
-    height: 120px;
+    height: 70px;
+    text-align: center;
 }
 
 #yesButton {
     position: absolute;
     margin-right: 150px;
     width: 120px;
-    height: 120px;
+    height: 70px;
+    text-align: center;
 }
 
 .header_text {
@@ -29,6 +32,7 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
+    text-align: center;
 }
 
 .buttons {
@@ -38,6 +42,7 @@ body {
     align-items: center;
     margin-top: 20px;
     margin-left: 20px;
+    text-align: center;
 }
 
 .btn {
@@ -52,6 +57,7 @@ body {
     border: none;
     border-radius: 12px;
     transition: background-color 0.3s ease;
+    text-align: center;
 }
 
 .gif_container {
@@ -59,4 +65,5 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: 90px;
+    text-align: center;
 }
